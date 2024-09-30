@@ -1,0 +1,32 @@
+h1{
+    color: rgb(0, 187, 250);
+    text-align: center;
+}
+
+img{
+    height: 300px;
+}
+
+p{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+}
+
+div{
+    padding: 30px;
+    width: 200px;
+    background-color: aqua;
+    border: 5px solid black;
+}
